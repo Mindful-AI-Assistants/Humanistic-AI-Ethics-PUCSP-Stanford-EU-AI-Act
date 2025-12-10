@@ -63,7 +63,7 @@ ADDRESSING COMPUTER-GENERATED CHILD SEX ABUSE IMAGERY - [LEGAL FRAMEWORK AND POL
 
 <br>
 
-DEEPFAKE [CRIMINAL POLICY]() -  Model Legislation Nonconsensual Distribution of Intimate Images NDII
+DEEPFAKE [CRIMINAL POLICY](https://github.com/Mindful-AI-Assistants/Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act/blob/f45c32856d2af81fda22fd6840b88e8f0829d311/DeepFake__APPS_NUDE_IMAGE_CHIELD-OFFENDERS/CRIMINAL-MODEL-POLICY-%20DEEPFAKE%20%20Model%20Legislation-%20Nonconsensual%20Distribution%20of%20Intimate%20Images%20NDII.pdf) -  Model Legislation Nonconsensual Distribution of Intimate Images NDII
  
 
 
