@@ -1,0 +1,41 @@
+1. JMIR Public Health Surveill. 2025 Feb 14;11:e65699. doi: 10.2196/65699.
+
+The Promise and Perils of Artificial Intelligence in Advancing Participatory 
+Science and Health Equity in Public Health.
+
+King AC(1), Doueiri ZN(2), Kaulberg A(2), Goldman Rosas L(3).
+
+Author information:
+(1)Departments of Epidemiology & Population Health and of Medicine (Stanford 
+Prevention Research Center), Stanford University School of Medicine, 1701 Page 
+Mill Road, Palo Alto, CA, 94304-1210, United States, 1 650-497-2806.
+(2)Department of Epidemiology & Population Health, Stanford University School of 
+Medicine, Palo Alto, CA, United States.
+(3)Departments of Epidemiology & Population Health and of Medicine (Division of 
+Primary Care and Population Health), Stanford University School of Medicine, 
+Stanford University, Palo Alto, CA, United States.
+
+Current societal trends reflect an increased mistrust in science and a lowered 
+civic engagement that threaten to impair research that is foundational for 
+ensuring public health and advancing health equity. One effective countermeasure 
+to these trends lies in community-facing citizen science applications to 
+increase public participation in scientific research, making this field an 
+important target for artificial intelligence (AI) exploration. We highlight 
+potentially promising citizen science AI applications that extend beyond 
+individual use to the community level, including conversational large language 
+models, text-to-image generative AI tools, descriptive analytics for analyzing 
+integrated macro- and micro-level data, and predictive analytics. The novel 
+adaptations of AI technologies for community-engaged participatory research also 
+bring an array of potential risks. We highlight possible negative externalities 
+and mitigations for some of the potential ethical and societal challenges in 
+this field.
+
+© Abby C King, Zakaria N Doueiri, Ankita Kaulberg, Lisa Goldman Rosas. 
+Originally published in JMIR Public Health and Surveillance 
+(https://publichealth.jmir.org).
+
+DOI: 10.2196/65699
+PMCID: PMC11844874
+PMID: 39963973 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
