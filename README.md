@@ -8,8 +8,9 @@
 <br><br>
 
 
-# Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act
-### Human-Centered-AI-Regulation-Compliance-Research Brazil -EU AI ACT
+EU AI ACT 2025: Human-Centered Regulation Across Brazil and Europe
+Humanistic AI Governance, Global Compliance & Regulatory Futures
+Transdisciplinary Ethical Frameworks from TIDD/PUC-SP & Stanford HAI
 
 <br><br>
 
