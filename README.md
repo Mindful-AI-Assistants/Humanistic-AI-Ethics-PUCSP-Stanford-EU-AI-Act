@@ -8,7 +8,7 @@
 <br><br>
 
 
- # <p align="center">  🇪🇺 [EU AI ACT 2025](): Human-Centered Regulation Across:  [Europe]()  and  [Brazil]() 🇧🇷
+ ## <p align="center">  🇪🇺 [EU AI ACT 2025](): Human-Centered Regulation Across:  [Europe]()  and  [Brazil]() 🇧🇷
  ### <p align="center"> Transdisciplinary AI and Data Science - Ethical Frameworks from [TIDD/PUC-SP]() & [Stanford HAI]()
  ### <p align="center"> Humanistic AI Governance, Global Compliance & Regulatory Futures
 
